@@ -50,8 +50,9 @@ The structure after `make dist`
 `
 
 ## Dependencies
-* POSIX-Copmatible operating system (Linux, Cygwin)
+* POSIX-Compatible operating system (Linux, Cygwin)
 * GNU Make
 * Node.js
 * npm
-* uglifyjs --> `npm install -h uglifyjs`
+* uglifyjs --> `npm install -g uglifyjs`
+* TypeScript (tsc)
